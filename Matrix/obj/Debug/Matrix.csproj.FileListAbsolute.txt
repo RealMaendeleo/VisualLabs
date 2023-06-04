@@ -1,0 +1,8 @@
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\bin\Debug\Matrix.dll
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\bin\Debug\Matrix.pdb
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\obj\Debug\Matrix.csproj.AssemblyReference.cache
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\obj\Debug\Matrix.Matrix3x3.resources
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\obj\Debug\Matrix.dll
+C:\Users\root\Source\Repos\Visual-Programming\VP\Matrix\obj\Debug\Matrix.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VisualLab10/1.0.0": {
+        "runtime": {
+          "VisualLab10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisualLab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

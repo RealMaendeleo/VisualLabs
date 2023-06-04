@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\VisualLab5\VisualLab5\bin\Debug\VisualLab5.exe.config
+C:\Users\root\source\repos\VisualLab5\VisualLab5\bin\Debug\VisualLab5.exe
+C:\Users\root\source\repos\VisualLab5\VisualLab5\bin\Debug\VisualLab5.pdb
+C:\Users\root\source\repos\VisualLab5\VisualLab5\obj\Debug\VisualLab5.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\VisualLab5\VisualLab5\obj\Debug\VisualLab5.Form1.resources
+C:\Users\root\source\repos\VisualLab5\VisualLab5\obj\Debug\VisualLab5.Properties.Resources.resources
+C:\Users\root\source\repos\VisualLab5\VisualLab5\obj\Debug\VisualLab5.csproj.GenerateResource.cache
+C:\Users\root\source\repos\VisualLab5\VisualLab5\obj\Debug\VisualLab5.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\VisualLab5\VisualLab5\obj\Debug\VisualLab5.exe
+C:\Users\root\source\repos\VisualLab5\VisualLab5\obj\Debug\VisualLab5.pdb

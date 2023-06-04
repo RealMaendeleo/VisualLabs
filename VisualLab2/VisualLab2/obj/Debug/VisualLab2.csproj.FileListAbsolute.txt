@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\VisualLab2\VisualLab2\bin\Debug\VisualLab2.exe.config
+C:\Users\root\source\repos\VisualLab2\VisualLab2\bin\Debug\VisualLab2.exe
+C:\Users\root\source\repos\VisualLab2\VisualLab2\bin\Debug\VisualLab2.pdb
+C:\Users\root\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.exe
+C:\Users\root\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.pdb
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\bin\Debug\VisualLab2.exe.config
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\bin\Debug\VisualLab2.exe
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\bin\Debug\VisualLab2.pdb
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.csproj.AssemblyReference.cache
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.exe
+C:\Users\vladk\source\repos\VisualLab2\VisualLab2\obj\Debug\VisualLab2.pdb

@@ -1,0 +1,13 @@
+C:\Users\root\source\repos\VisualLab3\VisualLab3\bin\Debug\VisualLab3.exe.config
+C:\Users\root\source\repos\VisualLab3\VisualLab3\bin\Debug\VisualLab3.exe
+C:\Users\root\source\repos\VisualLab3\VisualLab3\bin\Debug\VisualLab3.pdb
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.Form1.resources
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.Properties.Resources.resources
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.csproj.GenerateResource.cache
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.exe
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.pdb
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.Form_Stock.resources
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.Form_Office.resources
+C:\Users\root\source\repos\VisualLab3\VisualLab3\obj\Debug\VisualLab3.Form_Apartment.resources

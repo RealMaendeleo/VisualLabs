@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\bin\Debug\VisualLab2forms.exe.config
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\bin\Debug\VisualLab2forms.exe
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\bin\Debug\VisualLab2forms.pdb
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\obj\Debug\VisualLab2forms.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\obj\Debug\VisualLab2forms.Form1.resources
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\obj\Debug\VisualLab2forms.Properties.Resources.resources
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\obj\Debug\VisualLab2forms.csproj.GenerateResource.cache
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\obj\Debug\VisualLab2forms.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\obj\Debug\VisualLab2forms.exe
+C:\Users\root\source\repos\VisualLab2forms\VisualLab2forms\obj\Debug\VisualLab2forms.pdb

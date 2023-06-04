@@ -1,0 +1,92 @@
+﻿<Window x:Class="VisualLab10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VisualLab10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Slider Height="25" Minimum="0" Maximum="360"
+Value="{Binding ElementName=HorizontalRotation, Path= Angle}" Margin="44,0,44, 5" />
+
+        <Slider Minimum="0" Maximum="360"
+Value="{Binding Angle, ElementName=VerticalRotation}" Margin="44,30,44,0" RenderTransformOrigin="0.495,2.758"/>
+
+        <Viewport3D Grid.Row="1" RenderTransformOrigin="0.461,0.419">
+
+            <Viewport3D.Camera>
+                <PerspectiveCamera Position="0.5, 0.5, 12.5" LookDirection="0,0,-5.5" />
+            </Viewport3D.Camera>
+
+            <Viewport3D.Children>
+                <ModelVisual3D>
+                    <ModelVisual3D.Content>
+                        <DirectionalLight Color="LightYellow" Direction="-10,30,-20" />
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+                <ModelVisual3D>
+                    <ModelVisual3D.Content>
+                        <GeometryModel3D>
+                            <GeometryModel3D.Geometry>
+                                <!--Вершины и треугольники-->
+                                <MeshGeometry3D Positions="0,2,0
+                                                           2,0,0
+                                                           0,0,2
+                                                           -2,0,0
+                                                           0,0,-2
+                                                           0,0,0"
+
+                                                TriangleIndices="4,3,0
+                                                                 3,2,0
+                                                                 2,1,0
+                                                                 1,4,0
+                                                                 5,1,2
+                                                                 5,2,3
+                                                                 5,3,4
+                                                                 5,4,1"/>
+
+                            </GeometryModel3D.Geometry>
+                            <GeometryModel3D.Material>
+                                <DiffuseMaterial Brush="SandyBrown" />
+                                <!--DiffuseMaterial>
+<DiffuseMaterial.Brush>
+
+<ImageBrush ImageSource="C:\Users\Evgen\Desktop\Semestr5\VisualProgramming\VP\Lab10\Resources\image.png" />
+</DiffuseMaterial.Brush>
+</DiffuseMaterial-->
+                            </GeometryModel3D.Material>
+                        </GeometryModel3D>
+                    </ModelVisual3D.Content>
+                    <ModelVisual3D.Transform>
+                        <Transform3DGroup >
+                            <Transform3DGroup.Children>
+
+                                <RotateTransform3D x:Name="HorizontalRTransform">
+                                    <RotateTransform3D.Rotation>
+                                        <AxisAngleRotation3D x:Name="HorizontalRotation" Angle="0" Axis="0 1 0" />
+                                    </RotateTransform3D.Rotation>
+                                </RotateTransform3D>
+
+                                <RotateTransform3D x:Name="VerticalRTransform">
+                                    <RotateTransform3D.Rotation>
+                                        <AxisAngleRotation3D x:Name="VerticalRotation" Angle="0" Axis="1 0 0" />
+                                        <!--вращение оси-->
+                                    </RotateTransform3D.Rotation>
+                                </RotateTransform3D>
+
+                                <TranslateTransform3D x:Name="myTranslateTransform" OffsetX="0" OffsetY="0" OffsetZ="0" />
+                            </Transform3DGroup.Children>
+                        </Transform3DGroup>
+                    </ModelVisual3D.Transform>
+
+                </ModelVisual3D>
+            </Viewport3D.Children>
+        </Viewport3D>
+    </Grid>
+</Window>
